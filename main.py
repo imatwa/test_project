@@ -18,3 +18,4 @@ if __name__ == '__main__':
 
 print('Smth new!')
 print('Smth new!')
+print('Smth new!')
