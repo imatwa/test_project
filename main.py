@@ -16,6 +16,6 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 
-print('Smth new!')
-print('Smth new!')
+
+
 print('Smth new!')
