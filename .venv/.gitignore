@@ -1,0 +1,11 @@
+.venv/
+venv/
+
+# Настройки IDE
+.idea/
+
+# Кеши Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
