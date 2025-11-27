@@ -1,11 +1,11 @@
-.venv/
-venv/
+/.venv/
+/venv/
 
 # Настройки IDE
-.idea/
+/.idea/
 
 # Кеши Python
-__pycache__/
+/__pycache__/
 *.pyc
 *.pyo
 *.pyd
